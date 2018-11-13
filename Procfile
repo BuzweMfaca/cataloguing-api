@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/cataloguing-0.0.1-SNAPSHOT.jar -Dsever.port=$PORT $JAVA_OPTS
